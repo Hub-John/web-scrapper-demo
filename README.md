@@ -17,7 +17,7 @@ Make sure you have Python 3.x installed on your machine. You will also need to i
 You can install the dependencies using `pip`:
 
 ```bash
-pip install requests beautifulsoup pandas
+pip install requests, beautifulsoup, pandas
 ```
 
 ## ⚙️ Installation & Usage
