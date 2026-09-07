@@ -1,7 +1,7 @@
 # Web Scraper Demo
 Wikipedia link - https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
 
-A simple, demo Python web scraper that extracts tabular data of the largest companies in the United States by revenue from Wikipedia and saves it as a CSV file.
+A simple, demo Python web scraper that extracts tabular data of the largest public companies in the United States by revenue from Wikipedia and saves it as a CSV file.
 
 ## 🚀 Features
 - Scrapes live data from the Wikipedia page "List of largest companies in the United States by revenue".
