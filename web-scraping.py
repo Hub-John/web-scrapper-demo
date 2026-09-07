@@ -54,7 +54,7 @@ for row in column_data[1:]:
     df.loc[length] = individual_row_data
 
 # -------------------------------------------------------------
-# Step 8 - Shows data on terminal
+# Step 8 - Shows data on terminal/command line
 # -------------------------------------------------------------
 print(f"\n{df}")
 
