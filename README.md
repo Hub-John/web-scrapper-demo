@@ -39,9 +39,9 @@ pip install requests beautifulsoup pandas
 ## 📂 Project Structure
 
 - `web-scraping.py`: The main Python script containing the step-by-step web scraping logic.
-- `largest_companies.csv`: The output file generated after successfully running the script (ignored in `.gitignore` ideally).
+- `largest_companies.csv`: The output file generated after successfully running the script.
 - `README.md`: This project documentation.
 
 ## ⚠️ Disclaimer
 
-This project was created purely for **demo and educational purposes** to demonstrate fundamental web scraping techniques in Python. Always review and respect the `robots.txt` and Terms of Service of any website before scraping.
+This project was created purely for **demo and educational purposes** to demonstrate fundamental web scraping techniques in Python.
