@@ -23,8 +23,8 @@ pip install requests beautifulsoup pandas
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
-   cd <your-repository-directory>
+   git clone https://github.com/Hub-John/web-scrapper-demo.git
+   cd web-scrapper-demo
    ```
 
 2. **Run the scraping script:**
